@@ -19,7 +19,7 @@ We're building the infrastructure so **anyone, anywhere** can run that same pipe
 | 🧬 **OpenCure Platform** | Autonomous neoantigen prediction, protein structure modeling, molecular docking, QSAR pipelines | Active — Day 1 |
 | ♟️ **QuantChess** | Chess intelligence platform | Private — coming soon |
 | 📈 **Quantum Trade Labs** | Trading intelligence | Private — coming soon |
-| 🔧 **XPC Core** | Domain-agnostic autonomous research infrastructure | Coming soon |
+| 🔧 **OpenCure Labs Core** | Domain-agnostic autonomous research infrastructure | Coming soon |
 
 ---
 
