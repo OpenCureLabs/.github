@@ -1,6 +1,8 @@
-# 🧬 OpenCure Labs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OpenCureLabs/OpenCureLabs/main/logos/OpenCure%20Labs%20Main%20Logo%20Transparent%20bg.svg" alt="OpenCure Labs" width="400">
+</p>
 
-**Autonomous AI agents running real science — so every researcher can fight cancer like a funded lab.**
+<p align="center"><strong>Autonomous AI agents running real science — so every researcher can fight cancer like a funded lab.</strong></p>
 
 ---
 
@@ -16,7 +18,10 @@ We're building the infrastructure so **anyone, anywhere** can run that same pipe
 
 | Project | Description | Status |
 |---|---|---|
-| 🧬 **OpenCure Platform** | Autonomous neoantigen prediction, protein structure modeling, molecular docking, QSAR pipelines | Active — Day 1 |
+| 🧬 **[OpenCure Platform](https://github.com/OpenCureLabs/OpenCureLabs)** | Autonomous neoantigen prediction, protein structure modeling, molecular docking, QSAR pipelines | Active |
+| ♟️ **QuantChess** | Chess intelligence platform | Private — coming soon |
+| 📈 **Quantum Trade Labs** | Trading intelligence | Private — coming soon |
+| 🔧 **XPC Core** | Domain-agnostic autonomous research infrastructure | Coming soon |
 
 ---
 
@@ -26,20 +31,14 @@ Specialist AI agents coordinate, critique, and iterate — autonomously. No huma
 
 1. **Coordinator** dispatches tasks to domain agents (cancer, rare disease, drug response)
 2. **Science agents** run pipelines — VCF parsing, epitope prediction, docking simulations
-3. **Critics** (Claude Opus 4.6 + Grok) review every result for scientific rigor
-4. **Results stream live** to Discord and get published as reproducible reports
+3. **Grok** reviews every result for scientific rigor (two-tier critique + literature monitoring)
+4. **Results** are published to GitHub, PDF reports, and a public dataset at **[opencurelabs.ai](https://opencurelabs.ai)**
 
 ---
 
 ## 🛠️ Built On
 
-Claude Opus 4.6 · Grok · NVIDIA NeMo AgentIQ · MHCflurry · AlphaFold · Vast.ai · PostgreSQL · Ollama
-
----
-
-## 📡 Status
-
-**Day 1.** Neoantigen prediction pipeline running. KRAS G12V and TP53 R175H predictions validated. More pipelines coming fast.
+Grok · NVIDIA NeMo AgentIQ · MHCflurry · AlphaFold · AutoDock Vina · Vast.ai · PostgreSQL · Cloudflare R2
 
 ---
 
