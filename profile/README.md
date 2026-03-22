@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/OpenCureLabs/OpenCureLabs">
     <img src="https://raw.githubusercontent.com/OpenCureLabs/OpenCureLabs/main/logos/OpenCure%20Labs%20Main%20Logo%20Transparent%20bg.svg#gh-light-mode-only" alt="OpenCure Labs" width="400">
-    <img src="https://raw.githubusercontent.com/OpenCureLabs/OpenCureLabs/main/logos/OpenCure%20Labs%20White%20logo%20Transparent%20bg.svg#gh-dark-mode-only" alt="OpenCure Labs" width="400">
+    <img src="https://raw.githubusercontent.com/OpenCureLabs/OpenCureLabs/main/logos/OpenCure%20Labs%20Inverted%20Color%20Transparent%20bg.svg#gh-dark-mode-only" alt="OpenCure Labs" width="400">
   </a>
 </p>
 
