@@ -16,12 +16,7 @@ We're building the infrastructure so **anyone, anywhere** can run that same pipe
 
 ## 🔬 What We're Building
 
-| Project | Description | Status |
-|---|---|---|
-| 🧬 **[OpenCure Platform](https://github.com/OpenCureLabs/OpenCureLabs)** | Autonomous neoantigen prediction, protein structure modeling, molecular docking, QSAR pipelines | Active |
-| ♟️ **QuantChess** | Chess intelligence platform | Private — coming soon |
-| 📈 **Quantum Trade Labs** | Trading intelligence | Private — coming soon |
-| 🔧 **XPC Core** | Domain-agnostic autonomous research infrastructure | Coming soon |
+**[OpenCure Platform](https://github.com/OpenCureLabs/OpenCureLabs)** — Autonomous neoantigen prediction, protein structure modeling, molecular docking, and QSAR pipelines.
 
 ---
 
