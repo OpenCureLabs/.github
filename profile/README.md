@@ -1,9 +1,8 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OpenCureLabs/OpenCureLabs/main/logos/OpenCure%20Labs%20White%20logo%20Transparent%20bg.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenCureLabs/OpenCureLabs/main/logos/OpenCure%20Labs%20Main%20Logo%20Transparent%20bg.svg">
-    <img src="https://raw.githubusercontent.com/OpenCureLabs/OpenCureLabs/main/logos/OpenCure%20Labs%20Main%20Logo%20Transparent%20bg.svg" alt="OpenCure Labs" width="400">
-  </picture>
+  <a href="https://github.com/OpenCureLabs/OpenCureLabs">
+    <img src="https://raw.githubusercontent.com/OpenCureLabs/OpenCureLabs/main/logos/OpenCure%20Labs%20Main%20Logo%20Transparent%20bg.svg#gh-light-mode-only" alt="OpenCure Labs" width="400">
+    <img src="https://raw.githubusercontent.com/OpenCureLabs/OpenCureLabs/main/logos/OpenCure%20Labs%20White%20logo%20Transparent%20bg.svg#gh-dark-mode-only" alt="OpenCure Labs" width="400">
+  </a>
 </p>
 
 <p align="center"><strong>Autonomous AI agents running real science — so every researcher can fight cancer like a funded lab.</strong></p>
