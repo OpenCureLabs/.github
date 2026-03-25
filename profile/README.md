@@ -10,7 +10,7 @@
 
 ## 🎯 The Mission
 
-A developer named Paul Conyngham used open-source tools to design a personalized cancer vaccine that saved his dog Rosie. He proved one person with the right pipeline can do what takes an institution months.
+Inspired by [the story of a man who designed an mRNA vaccine to treat his dog's cancer](https://reason.com/2026/03/19/man-successfully-designs-mrna-vaccine-to-treat-his-dogs-cancer/) — proving one person with the right pipeline can do what takes an institution months.
 
 We're building the infrastructure so **anyone, anywhere** can run that same pipeline — and push it further. Personalized medicine shouldn't require a grant and a team of 50.
 
