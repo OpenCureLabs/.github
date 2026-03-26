@@ -21,7 +21,7 @@ The system supports both shared and private usage. In the default mode, a Cloudf
 ## How It Works
 
 1. **AI-driven workflows** — Specialist agents run genomics, structural biology, and pharmacology pipelines. A coordinator dispatches tasks; agents execute and return structured results.
-2. **Public artifacts** — Every result is published to GitHub, and a downloadable dataset at **[opencurelabs.ai](https://opencurelabs.ai)**. Artifacts include Ed25519 signatures and review metadata.
+2. **Public artifacts** — Every result is stored in Cloudflare R2, with a browsable feed at **[opencurelabs.ai](https://opencurelabs.ai)**. Artifacts include Ed25519 signatures and review metadata.
 3. **Independent AI critique** — Grok reviews every result through a two-tier critique process with literature cross-referencing. Results carry confidence-oriented review scores, not endorsements.
 4. **Open contribution** — All code, configs, and pipeline definitions are open source. Run your own experiments, contribute compute to the shared task queue, or extend existing workflows.
 
