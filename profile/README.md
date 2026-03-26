@@ -4,43 +4,31 @@
   </a>
 </p>
 
-<p align="center"><strong>Autonomous AI agents running real science — so every researcher can fight cancer like a funded lab.</strong></p>
+<p align="center"><strong>Autonomous AI agents for computational biology — open tools, public artifacts, and reproducible workflows.</strong></p>
 
 ---
 
-## 🎯 The Mission
+## What We Do
 
-Inspired by [the story of a man who designed an mRNA vaccine to treat his dog's cancer](https://reason.com/2026/03/19/man-successfully-designs-mrna-vaccine-to-treat-his-dogs-cancer/) — proving one person with the right pipeline can do what takes an institution months.
+OpenCure Labs builds open infrastructure for computational biology and personalized medicine using autonomous AI workflows, public datasets, and downloadable research artifacts.
 
-We're building the infrastructure so **anyone, anywhere** can run that same pipeline — and push it further. Personalized medicine shouldn't require a grant and a team of 50.
-
----
-
-## 🔬 What We're Building
-
-**[OpenCure Platform](https://github.com/OpenCureLabs/OpenCureLabs)** — Autonomous neoantigen prediction, protein structure modeling, molecular docking, and QSAR pipelines.
+The platform runs neoantigen prediction, protein structure modeling, molecular docking, and QSAR pipelines against public datasets (TCGA, ClinVar, ChEMBL, GEO). All outputs — variant calls, docking scores, binding predictions — are published as structured artifacts with provenance metadata.
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
-Specialist AI agents coordinate, critique, and iterate — autonomously. No human in the loop unless you want one.
-
-1. **Coordinator** dispatches tasks to domain agents (cancer, rare disease, drug response)
-2. **Science agents** run pipelines — VCF parsing, epitope prediction, docking simulations
-3. **Grok** reviews every result for scientific rigor (two-tier critique + literature monitoring)
-4. **Results** are published to GitHub, PDF reports, and a public dataset at **[opencurelabs.ai](https://opencurelabs.ai)**
+1. **AI-driven workflows** — Specialist agents run genomics, structural biology, and pharmacology pipelines. A coordinator dispatches tasks; agents execute and return structured results.
+2. **Public artifacts** — Every result is published to GitHub, PDF reports, and a downloadable dataset at **[opencurelabs.ai](https://opencurelabs.ai)**. Artifacts include Ed25519 signatures and review metadata.
+3. **Independent AI critique** — Grok reviews every result through a two-tier critique process with literature cross-referencing. Results carry confidence-oriented review scores, not endorsements.
+4. **Open contribution** — All code, configs, and pipeline definitions are open source. Run your own experiments or extend existing workflows.
 
 ---
 
-## 🛠️ Built On
+## Built On
 
-Grok · NVIDIA NeMo AgentIQ · MHCflurry · AlphaFold · AutoDock Vina · Vast.ai · PostgreSQL · Cloudflare R2
+NVIDIA NeMo AgentIQ · MHCflurry · AlphaFold · AutoDock Vina · Vast.ai · PostgreSQL · Cloudflare R2
 
 ---
 
-## 👀 Watch This Space
-
-Follow [@ShoneAnstey](https://x.com/ShoneAnstey) on X for updates.
-
-> *Built in public. Run by agents. Reviewed by science.*
+> *Built in public. Run by agents. Reviewed with independent AI critique.*
